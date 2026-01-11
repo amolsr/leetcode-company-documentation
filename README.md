@@ -17,7 +17,7 @@ Then open http://localhost:1313
 ```bash
 hugo
 ```
-The static site will be generated in the `public/` directory.
+The static site will be generated in the `docs/` directory.
 
 ## Structure
 - `config.yaml` — site configuration

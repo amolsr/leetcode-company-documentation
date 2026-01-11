@@ -3,6 +3,7 @@ title: LeetCode Problem List — Docs
 languageCode: en-us
 paginate: 20
 enableRobotsTXT: true
+publishDir: docs
 
 params:
   description: "LeetCode problem list themed docs with company-specific problem tables"

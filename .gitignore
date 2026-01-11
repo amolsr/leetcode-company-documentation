@@ -1,5 +1,6 @@
 # Hugo generated files
 resources/_gen/
+public/
 
 # macOS
 .DS_Store
