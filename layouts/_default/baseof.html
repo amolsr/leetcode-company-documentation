@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}" />
+  {{ partial "seo.html" . }}
+  {{ $css := resources.Get "css/site.css" | resources.Minify | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ "/" | relURL }}" class="brand">{{ .Site.Title }}</a>
+    </div>
+  </header>
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>Source: <a href="{{ .Site.Params.repoURL }}" target="_blank" rel="noopener">Upstream Repo</a></p>
+    </div>
+  </footer>
+  {{ $js := resources.Get "js/companies.js" | resources.Minify | resources.Fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+baseURL: /
+title: LeetCode Problem List — Docs
+languageCode: en-us
+paginate: 20
+enableRobotsTXT: true
+
+params:
+  description: "LeetCode problem list themed docs with company-specific problem tables"
+  repoURL: "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main"
+  relatedNotesURL: "https://github.com/liquidslr/system-design-notes"
+
+outputs:
+  home: [HTML]
+  section: [HTML]
+  page: [HTML]

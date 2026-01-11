@@ -1,0 +1,29 @@
+{{ $title := cond (ne .Title "") (printf "%s | %s" .Title .Site.Title) .Site.Title }}
+{{ $desc := .Params.description | default .Site.Params.description }}
+{{ $url := .Permalink }}
+
+<link rel="canonical" href="{{ $url }}" />
+<meta name="description" content="{{ $desc }}" />
+<meta name="robots" content="index,follow" />
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ $title }}" />
+<meta property="og:description" content="{{ $desc }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ $url }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:description" content="{{ $desc }}" />
+
+<!-- Structured Data: WebSite -->
+{{ $json := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "url" $url
+  "name" .Site.Title
+  "description" $desc
+}}
+<script type="application/ld+json">{{ $json | jsonify }}</script>

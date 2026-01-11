@@ -1,0 +1,1886 @@
+{
+  "source": "https://api.github.com/repos/liquidslr/leetcode-company-wise-problems/contents",
+  "generatedAt": "2025-10-30T17:50:36Z",
+  "items": [
+    {
+      "name": "AMD",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/AMD"
+    },
+    {
+      "name": "AQR Capital Management",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/AQR Capital Management"
+    },
+    {
+      "name": "Accenture",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Accenture"
+    },
+    {
+      "name": "Accolite",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Accolite"
+    },
+    {
+      "name": "Acko",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Acko"
+    },
+    {
+      "name": "Activision",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Activision"
+    },
+    {
+      "name": "Adobe",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Adobe"
+    },
+    {
+      "name": "Affirm",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Affirm"
+    },
+    {
+      "name": "Agoda",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Agoda"
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Airbnb"
+    },
+    {
+      "name": "Airbus SE",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Airbus SE"
+    },
+    {
+      "name": "Airtel",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Airtel"
+    },
+    {
+      "name": "Airwallex",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Airwallex"
+    },
+    {
+      "name": "Akamai",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Akamai"
+    },
+    {
+      "name": "Akuna Capital",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Akuna Capital"
+    },
+    {
+      "name": "Alibaba",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Alibaba"
+    },
+    {
+      "name": "Altimetrik",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Altimetrik"
+    },
+    {
+      "name": "Amadeus",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Amadeus"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Amazon"
+    },
+    {
+      "name": "Amdocs",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Amdocs"
+    },
+    {
+      "name": "American Express",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/American Express"
+    },
+    {
+      "name": "Analytics quotient",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Analytics quotient"
+    },
+    {
+      "name": "Anduril",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Anduril"
+    },
+    {
+      "name": "Aon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Aon"
+    },
+    {
+      "name": "Apollo.io",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Apollo.io"
+    },
+    {
+      "name": "AppDynamics",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/AppDynamics"
+    },
+    {
+      "name": "AppFolio",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/AppFolio"
+    },
+    {
+      "name": "Apple",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Apple"
+    },
+    {
+      "name": "Applied Intuition",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Applied Intuition"
+    },
+    {
+      "name": "Arcesium",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Arcesium"
+    },
+    {
+      "name": "Arista Networks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Arista Networks"
+    },
+    {
+      "name": "Asana",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Asana"
+    },
+    {
+      "name": "Atlassian",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Atlassian"
+    },
+    {
+      "name": "Attentive",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Attentive"
+    },
+    {
+      "name": "Audible",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Audible"
+    },
+    {
+      "name": "Aurora",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Aurora"
+    },
+    {
+      "name": "Autodesk",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Autodesk"
+    },
+    {
+      "name": "Avalara",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Avalara"
+    },
+    {
+      "name": "Avito",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Avito"
+    },
+    {
+      "name": "Axon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Axon"
+    },
+    {
+      "name": "BILL Holdings",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BILL Holdings"
+    },
+    {
+      "name": "BNY Mellon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BNY Mellon"
+    },
+    {
+      "name": "BP",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BP"
+    },
+    {
+      "name": "Baidu",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Baidu"
+    },
+    {
+      "name": "Bank of America",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Bank of America"
+    },
+    {
+      "name": "Barclays",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Barclays"
+    },
+    {
+      "name": "Bentley Systems",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Bentley Systems"
+    },
+    {
+      "name": "BharatPe",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BharatPe"
+    },
+    {
+      "name": "BitGo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BitGo"
+    },
+    {
+      "name": "BlackRock",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BlackRock"
+    },
+    {
+      "name": "BlackStone",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/BlackStone"
+    },
+    {
+      "name": "Blizzard",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Blizzard"
+    },
+    {
+      "name": "Block",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Block"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Bloomberg"
+    },
+    {
+      "name": "Bolt",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Bolt"
+    },
+    {
+      "name": "Booking.com",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Booking.com"
+    },
+    {
+      "name": "Bosch",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Bosch"
+    },
+    {
+      "name": "Box",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Box"
+    },
+    {
+      "name": "Braze",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Braze"
+    },
+    {
+      "name": "Brex",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Brex"
+    },
+    {
+      "name": "Bridgewater Associates",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Bridgewater Associates"
+    },
+    {
+      "name": "ByteDance",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ByteDance"
+    },
+    {
+      "name": "CARS24",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CARS24"
+    },
+    {
+      "name": "CEDCOSS",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CEDCOSS"
+    },
+    {
+      "name": "CME Group",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CME Group"
+    },
+    {
+      "name": "CRED",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CRED"
+    },
+    {
+      "name": "CTC",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CTC"
+    },
+    {
+      "name": "CVENT",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CVENT"
+    },
+    {
+      "name": "Cadence",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cadence"
+    },
+    {
+      "name": "Canonical",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Canonical"
+    },
+    {
+      "name": "Capgemini",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Capgemini"
+    },
+    {
+      "name": "Capital One",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Capital One"
+    },
+    {
+      "name": "Careem",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Careem"
+    },
+    {
+      "name": "Cashfree",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cashfree"
+    },
+    {
+      "name": "Celigo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Celigo"
+    },
+    {
+      "name": "Chewy",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Chewy"
+    },
+    {
+      "name": "Chime",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Chime"
+    },
+    {
+      "name": "Circle",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Circle"
+    },
+    {
+      "name": "Cisco",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cisco"
+    },
+    {
+      "name": "Citadel",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Citadel"
+    },
+    {
+      "name": "Citigroup",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Citigroup"
+    },
+    {
+      "name": "Citrix",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Citrix"
+    },
+    {
+      "name": "Clari",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Clari"
+    },
+    {
+      "name": "Cleartrip",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cleartrip"
+    },
+    {
+      "name": "Cloudera",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cloudera"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cloudflare"
+    },
+    {
+      "name": "Coforge",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Coforge"
+    },
+    {
+      "name": "Cognizant",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cognizant"
+    },
+    {
+      "name": "Cohesity",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cohesity"
+    },
+    {
+      "name": "Coinbase",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Coinbase"
+    },
+    {
+      "name": "Comcast",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Comcast"
+    },
+    {
+      "name": "Commvault",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Commvault"
+    },
+    {
+      "name": "Compass",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Compass"
+    },
+    {
+      "name": "Confluent",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Confluent"
+    },
+    {
+      "name": "ConsultAdd",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ConsultAdd"
+    },
+    {
+      "name": "Coupang",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Coupang"
+    },
+    {
+      "name": "Coursera",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Coursera"
+    },
+    {
+      "name": "Coveo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Coveo"
+    },
+    {
+      "name": "Credit Karma",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Credit Karma"
+    },
+    {
+      "name": "Criteo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Criteo"
+    },
+    {
+      "name": "CrowdStrike",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CrowdStrike"
+    },
+    {
+      "name": "Cruise",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Cruise"
+    },
+    {
+      "name": "CureFit",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/CureFit"
+    },
+    {
+      "name": "DE Shaw",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DE Shaw"
+    },
+    {
+      "name": "DP world",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DP world"
+    },
+    {
+      "name": "DRW",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DRW"
+    },
+    {
+      "name": "DXC Technology",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DXC Technology"
+    },
+    {
+      "name": "Darwinbox",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Darwinbox"
+    },
+    {
+      "name": "Databricks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Databricks"
+    },
+    {
+      "name": "Datadog",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Datadog"
+    },
+    {
+      "name": "Dataminr",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Dataminr"
+    },
+    {
+      "name": "Delhivery",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Delhivery"
+    },
+    {
+      "name": "Deliveroo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Deliveroo"
+    },
+    {
+      "name": "Dell",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Dell"
+    },
+    {
+      "name": "Deloitte",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Deloitte"
+    },
+    {
+      "name": "DeltaX",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DeltaX"
+    },
+    {
+      "name": "Deutsche Bank",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Deutsche Bank"
+    },
+    {
+      "name": "DevRev",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DevRev"
+    },
+    {
+      "name": "Devsinc",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Devsinc"
+    },
+    {
+      "name": "Devtron",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Devtron"
+    },
+    {
+      "name": "Directi",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Directi"
+    },
+    {
+      "name": "Disney",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Disney"
+    },
+    {
+      "name": "Docusign",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Docusign"
+    },
+    {
+      "name": "DoorDash",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/DoorDash"
+    },
+    {
+      "name": "Dream11",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Dream11"
+    },
+    {
+      "name": "Dropbox",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Dropbox"
+    },
+    {
+      "name": "Druva",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Druva"
+    },
+    {
+      "name": "Dunzo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Dunzo"
+    },
+    {
+      "name": "Duolingo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Duolingo"
+    },
+    {
+      "name": "EPAM Systems",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/EPAM Systems"
+    },
+    {
+      "name": "EY",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/EY"
+    },
+    {
+      "name": "EarnIn",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/EarnIn"
+    },
+    {
+      "name": "Edelweiss Group",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Edelweiss Group"
+    },
+    {
+      "name": "Electronic Arts",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Electronic Arts"
+    },
+    {
+      "name": "Epic Systems",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Epic Systems"
+    },
+    {
+      "name": "Expedia",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Expedia"
+    },
+    {
+      "name": "FPT",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/FPT"
+    },
+    {
+      "name": "FactSet",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/FactSet"
+    },
+    {
+      "name": "Faire",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Faire"
+    },
+    {
+      "name": "Fastenal",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Fastenal"
+    },
+    {
+      "name": "Fidelity",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Fidelity"
+    },
+    {
+      "name": "Fiverr",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Fiverr"
+    },
+    {
+      "name": "Flexera",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Flexera"
+    },
+    {
+      "name": "Flexport",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Flexport"
+    },
+    {
+      "name": "Flipkart",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Flipkart"
+    },
+    {
+      "name": "Fortinet",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Fortinet"
+    },
+    {
+      "name": "Freecharge",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Freecharge"
+    },
+    {
+      "name": "FreshWorks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/FreshWorks"
+    },
+    {
+      "name": "GE Digital",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/GE Digital"
+    },
+    {
+      "name": "GE Healthcare",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/GE Healthcare"
+    },
+    {
+      "name": "GSA Capital",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/GSA Capital"
+    },
+    {
+      "name": "GSN Games",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/GSN Games"
+    },
+    {
+      "name": "Gameskraft",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Gameskraft"
+    },
+    {
+      "name": "Garmin",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Garmin"
+    },
+    {
+      "name": "Geico",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Geico"
+    },
+    {
+      "name": "General Motors",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/General Motors"
+    },
+    {
+      "name": "Genpact",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Genpact"
+    },
+    {
+      "name": "GoDaddy",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/GoDaddy"
+    },
+    {
+      "name": "Gojek",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Gojek"
+    },
+    {
+      "name": "Goldman Sachs",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Goldman Sachs"
+    },
+    {
+      "name": "Google",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Google"
+    },
+    {
+      "name": "Grab",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Grab"
+    },
+    {
+      "name": "Grammarly",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Grammarly"
+    },
+    {
+      "name": "Graviton",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Graviton"
+    },
+    {
+      "name": "Groupon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Groupon"
+    },
+    {
+      "name": "Groww",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Groww"
+    },
+    {
+      "name": "Grubhub",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Grubhub"
+    },
+    {
+      "name": "Guidewire",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Guidewire"
+    },
+    {
+      "name": "Gusto",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Gusto"
+    },
+    {
+      "name": "HCL",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/HCL"
+    },
+    {
+      "name": "HP",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/HP"
+    },
+    {
+      "name": "HPE",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/HPE"
+    },
+    {
+      "name": "HSBC",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/HSBC"
+    },
+    {
+      "name": "Harness",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Harness"
+    },
+    {
+      "name": "HashedIn",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/HashedIn"
+    },
+    {
+      "name": "Hertz",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hertz"
+    },
+    {
+      "name": "HiLabs",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/HiLabs"
+    },
+    {
+      "name": "Highspot",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Highspot"
+    },
+    {
+      "name": "Hive",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hive"
+    },
+    {
+      "name": "Hiver",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hiver"
+    },
+    {
+      "name": "Honeywell",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Honeywell"
+    },
+    {
+      "name": "Hotstar",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hotstar"
+    },
+    {
+      "name": "Houzz",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Houzz"
+    },
+    {
+      "name": "Huawei",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Huawei"
+    },
+    {
+      "name": "Hubspot",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hubspot"
+    },
+    {
+      "name": "Hudson River Trading",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hudson River Trading"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Hulu"
+    },
+    {
+      "name": "IBM",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/IBM"
+    },
+    {
+      "name": "IIT Bombay",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/IIT Bombay"
+    },
+    {
+      "name": "IMC",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/IMC"
+    },
+    {
+      "name": "INDmoney",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/INDmoney"
+    },
+    {
+      "name": "IVP",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/IVP"
+    },
+    {
+      "name": "IXL",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/IXL"
+    },
+    {
+      "name": "InMobi",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/InMobi"
+    },
+    {
+      "name": "Indeed",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Indeed"
+    },
+    {
+      "name": "Info Edge",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Info Edge"
+    },
+    {
+      "name": "Informatica",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Informatica"
+    },
+    {
+      "name": "Infosys",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Infosys"
+    },
+    {
+      "name": "Instacart",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Instacart"
+    },
+    {
+      "name": "Intel",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Intel"
+    },
+    {
+      "name": "Intuit",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Intuit"
+    },
+    {
+      "name": "J.P. Morgan",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/J.P. Morgan"
+    },
+    {
+      "name": "Jane Street",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Jane Street"
+    },
+    {
+      "name": "Jump Trading",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Jump Trading"
+    },
+    {
+      "name": "Juniper Networks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Juniper Networks"
+    },
+    {
+      "name": "Juspay",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Juspay"
+    },
+    {
+      "name": "KLA",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/KLA"
+    },
+    {
+      "name": "Kakao",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Kakao"
+    },
+    {
+      "name": "Karat",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Karat"
+    },
+    {
+      "name": "Komprise",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Komprise"
+    },
+    {
+      "name": "LINE",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/LINE"
+    },
+    {
+      "name": "LTI",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/LTI"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Larsen & Toubro"
+    },
+    {
+      "name": "Lendingkart Technologies",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Lendingkart Technologies"
+    },
+    {
+      "name": "Lenskart",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Lenskart"
+    },
+    {
+      "name": "Licious",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Licious"
+    },
+    {
+      "name": "Liftoff",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Liftoff"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/LinkedIn"
+    },
+    {
+      "name": "LiveRamp",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/LiveRamp"
+    },
+    {
+      "name": "Lowe's",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Lowe's"
+    },
+    {
+      "name": "Lucid",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Lucid"
+    },
+    {
+      "name": "Luxoft",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Luxoft"
+    },
+    {
+      "name": "Lyft",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Lyft"
+    },
+    {
+      "name": "MAQ Software",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/MAQ Software"
+    },
+    {
+      "name": "MSCI",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/MSCI"
+    },
+    {
+      "name": "Machine Zone",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Machine Zone"
+    },
+    {
+      "name": "MakeMyTrip",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/MakeMyTrip"
+    },
+    {
+      "name": "Mapbox",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mapbox"
+    },
+    {
+      "name": "Mastercard",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mastercard"
+    },
+    {
+      "name": "MathWorks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/MathWorks"
+    },
+    {
+      "name": "McKinsey",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/McKinsey"
+    },
+    {
+      "name": "Media.net",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Media.net"
+    },
+    {
+      "name": "Meesho",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Meesho"
+    },
+    {
+      "name": "Mercari",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mercari"
+    },
+    {
+      "name": "Meta",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Meta"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Microsoft"
+    },
+    {
+      "name": "Microstrategy",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Microstrategy"
+    },
+    {
+      "name": "Millennium",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Millennium"
+    },
+    {
+      "name": "MindTree",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/MindTree"
+    },
+    {
+      "name": "Mindtickle",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mindtickle"
+    },
+    {
+      "name": "Miro",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Miro"
+    },
+    {
+      "name": "Mitsogo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mitsogo"
+    },
+    {
+      "name": "Mixpanel",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mixpanel"
+    },
+    {
+      "name": "Mobileye",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mobileye"
+    },
+    {
+      "name": "Moengage",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Moengage"
+    },
+    {
+      "name": "Moloco",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Moloco"
+    },
+    {
+      "name": "MongoDB",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/MongoDB"
+    },
+    {
+      "name": "Morgan Stanley",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Morgan Stanley"
+    },
+    {
+      "name": "Mountblue",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Mountblue"
+    },
+    {
+      "name": "Moveworks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Moveworks"
+    },
+    {
+      "name": "Myntra",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Myntra"
+    },
+    {
+      "name": "NCR",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/NCR"
+    },
+    {
+      "name": "Nagarro",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nagarro"
+    },
+    {
+      "name": "National Instruments",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/National Instruments"
+    },
+    {
+      "name": "National Payments Corporation of India",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/National Payments Corporation of India"
+    },
+    {
+      "name": "Navan",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Navan"
+    },
+    {
+      "name": "Navi",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Navi"
+    },
+    {
+      "name": "NetApp",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/NetApp"
+    },
+    {
+      "name": "NetEase",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/NetEase"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Netflix"
+    },
+    {
+      "name": "Netskope",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Netskope"
+    },
+    {
+      "name": "Netsuite",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Netsuite"
+    },
+    {
+      "name": "Nextdoor",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nextdoor"
+    },
+    {
+      "name": "Niantic",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Niantic"
+    },
+    {
+      "name": "Nielsen",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nielsen"
+    },
+    {
+      "name": "Nike",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nike"
+    },
+    {
+      "name": "NinjaCart",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/NinjaCart"
+    },
+    {
+      "name": "Nokia",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nokia"
+    },
+    {
+      "name": "Nordstrom",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nordstrom"
+    },
+    {
+      "name": "Notion",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Notion"
+    },
+    {
+      "name": "Nuro",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nuro"
+    },
+    {
+      "name": "Nutanix",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nutanix"
+    },
+    {
+      "name": "Nvidia",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nvidia"
+    },
+    {
+      "name": "Nykaa",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Nykaa"
+    },
+    {
+      "name": "OKX",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/OKX"
+    },
+    {
+      "name": "Odoo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Odoo"
+    },
+    {
+      "name": "Okta",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Okta"
+    },
+    {
+      "name": "Ola Cabs",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Ola Cabs"
+    },
+    {
+      "name": "OpenAI",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/OpenAI"
+    },
+    {
+      "name": "Opendoor",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Opendoor"
+    },
+    {
+      "name": "Optiver",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Optiver"
+    },
+    {
+      "name": "Optum",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Optum"
+    },
+    {
+      "name": "Oracle",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Oracle"
+    },
+    {
+      "name": "Otter.ai",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Otter.ai"
+    },
+    {
+      "name": "Ozon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Ozon"
+    },
+    {
+      "name": "Palantir Technologies",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Palantir Technologies"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Palo Alto Networks"
+    },
+    {
+      "name": "Patreon",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Patreon"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/PayPal"
+    },
+    {
+      "name": "PayPay",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/PayPay"
+    },
+    {
+      "name": "PayU",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/PayU"
+    },
+    {
+      "name": "Paycom",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Paycom"
+    },
+    {
+      "name": "Paytm",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Paytm"
+    },
+    {
+      "name": "Peloton",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Peloton"
+    },
+    {
+      "name": "PhonePe",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/PhonePe"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Pinterest"
+    },
+    {
+      "name": "Pocket Gems",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Pocket Gems"
+    },
+    {
+      "name": "Point72",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Point72"
+    },
+    {
+      "name": "Pony.ai",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Pony.ai"
+    },
+    {
+      "name": "PornHub",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/PornHub"
+    },
+    {
+      "name": "Poshmark",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Poshmark"
+    },
+    {
+      "name": "Postmates",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Postmates"
+    },
+    {
+      "name": "PubMatic",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/PubMatic"
+    },
+    {
+      "name": "Publicis Sapient",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Publicis Sapient"
+    },
+    {
+      "name": "Pure Storage",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Pure Storage"
+    },
+    {
+      "name": "Pwc",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Pwc"
+    },
+    {
+      "name": "QBurst",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/QBurst"
+    },
+    {
+      "name": "Qualcomm",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Qualcomm"
+    },
+    {
+      "name": "Qualtrics",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Qualtrics"
+    },
+    {
+      "name": "Quora",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Quora"
+    },
+    {
+      "name": "RBC",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/RBC"
+    },
+    {
+      "name": "Rakuten",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Rakuten"
+    },
+    {
+      "name": "Reddit",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Reddit"
+    },
+    {
+      "name": "Remitly",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Remitly"
+    },
+    {
+      "name": "Revolut",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Revolut"
+    },
+    {
+      "name": "Riot Games",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Riot Games"
+    },
+    {
+      "name": "Ripple",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Ripple"
+    },
+    {
+      "name": "Rippling",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Rippling"
+    },
+    {
+      "name": "Rivian",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Rivian"
+    },
+    {
+      "name": "Robinhood",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Robinhood"
+    },
+    {
+      "name": "Roblox",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Roblox"
+    },
+    {
+      "name": "Roche",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Roche"
+    },
+    {
+      "name": "Rokt",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Rokt"
+    },
+    {
+      "name": "Roku",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Roku"
+    },
+    {
+      "name": "Rubrik",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Rubrik"
+    },
+    {
+      "name": "SAP",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/SAP"
+    },
+    {
+      "name": "SIG",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/SIG"
+    },
+    {
+      "name": "SOTI",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/SOTI"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Salesforce"
+    },
+    {
+      "name": "Samsara",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Samsara"
+    },
+    {
+      "name": "Samsung",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Samsung"
+    },
+    {
+      "name": "Scale AI",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Scale AI"
+    },
+    {
+      "name": "Sentry",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Sentry"
+    },
+    {
+      "name": "ServiceNow",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ServiceNow"
+    },
+    {
+      "name": "ShareChat",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ShareChat"
+    },
+    {
+      "name": "Shopee",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Shopee"
+    },
+    {
+      "name": "Shopify",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Shopify"
+    },
+    {
+      "name": "Siemens",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Siemens"
+    },
+    {
+      "name": "Sigmoid",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Sigmoid"
+    },
+    {
+      "name": "Slice",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Slice"
+    },
+    {
+      "name": "Smartsheet",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Smartsheet"
+    },
+    {
+      "name": "Snap",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Snap"
+    },
+    {
+      "name": "Snapdeal",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Snapdeal"
+    },
+    {
+      "name": "Snowflake",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Snowflake"
+    },
+    {
+      "name": "SoFi",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/SoFi"
+    },
+    {
+      "name": "Societe Generale",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Societe Generale"
+    },
+    {
+      "name": "Softwire",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Softwire"
+    },
+    {
+      "name": "Sony",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Sony"
+    },
+    {
+      "name": "SoundHound",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/SoundHound"
+    },
+    {
+      "name": "Splunk",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Splunk"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Spotify"
+    },
+    {
+      "name": "Sprinklr",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Sprinklr"
+    },
+    {
+      "name": "Squarepoint Capital",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Squarepoint Capital"
+    },
+    {
+      "name": "Squarespace",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Squarespace"
+    },
+    {
+      "name": "StackAdapt",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/StackAdapt"
+    },
+    {
+      "name": "Stackline",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Stackline"
+    },
+    {
+      "name": "Stripe",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Stripe"
+    },
+    {
+      "name": "Sumo Logic",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Sumo Logic"
+    },
+    {
+      "name": "Swiggy",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Swiggy"
+    },
+    {
+      "name": "Synopsys",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Synopsys"
+    },
+    {
+      "name": "Tanium",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tanium"
+    },
+    {
+      "name": "Target",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Target"
+    },
+    {
+      "name": "Tech Mahindra",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tech Mahindra"
+    },
+    {
+      "name": "Tejas Networks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tejas Networks"
+    },
+    {
+      "name": "Tekion",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tekion"
+    },
+    {
+      "name": "Tencent",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tencent"
+    },
+    {
+      "name": "Teradata",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Teradata"
+    },
+    {
+      "name": "Tesco",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tesco"
+    },
+    {
+      "name": "Tesla",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tesla"
+    },
+    {
+      "name": "Texas Instruments",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Texas Instruments"
+    },
+    {
+      "name": "The Trade Desk",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/The Trade Desk"
+    },
+    {
+      "name": "Thomson Reuters",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Thomson Reuters"
+    },
+    {
+      "name": "ThoughtWorks",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ThoughtWorks"
+    },
+    {
+      "name": "ThousandEyes",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ThousandEyes"
+    },
+    {
+      "name": "Tiger Analytics",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tiger Analytics"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/TikTok"
+    },
+    {
+      "name": "Tinder",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tinder"
+    },
+    {
+      "name": "Tinkoff",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tinkoff"
+    },
+    {
+      "name": "Toast",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Toast"
+    },
+    {
+      "name": "Toptal",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Toptal"
+    },
+    {
+      "name": "Tower Research Capital",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tower Research Capital"
+    },
+    {
+      "name": "Trexquant",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Trexquant"
+    },
+    {
+      "name": "Trilogy",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Trilogy"
+    },
+    {
+      "name": "Tripadvisor",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Tripadvisor"
+    },
+    {
+      "name": "TuSimple",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/TuSimple"
+    },
+    {
+      "name": "Turing",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Turing"
+    },
+    {
+      "name": "Turo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Turo"
+    },
+    {
+      "name": "Turvo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Turvo"
+    },
+    {
+      "name": "Twilio",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Twilio"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Twitch"
+    },
+    {
+      "name": "Two Sigma",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Two Sigma"
+    },
+    {
+      "name": "UBS",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/UBS"
+    },
+    {
+      "name": "UKG",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/UKG"
+    },
+    {
+      "name": "USAA",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/USAA"
+    },
+    {
+      "name": "Uber",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Uber"
+    },
+    {
+      "name": "UiPath",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/UiPath"
+    },
+    {
+      "name": "Unity",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Unity"
+    },
+    {
+      "name": "Upstart",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Upstart"
+    },
+    {
+      "name": "Urban Company",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Urban Company"
+    },
+    {
+      "name": "VK",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/VK"
+    },
+    {
+      "name": "VMware",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/VMware"
+    },
+    {
+      "name": "Valve",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Valve"
+    },
+    {
+      "name": "Vanguard",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Vanguard"
+    },
+    {
+      "name": "Veeva Systems",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Veeva Systems"
+    },
+    {
+      "name": "Verily",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Verily"
+    },
+    {
+      "name": "Veritas",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Veritas"
+    },
+    {
+      "name": "Verkada",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Verkada"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Vimeo"
+    },
+    {
+      "name": "Virtu Financial",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Virtu Financial"
+    },
+    {
+      "name": "Virtusa",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Virtusa"
+    },
+    {
+      "name": "Visa",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Visa"
+    },
+    {
+      "name": "Walmart Labs",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Walmart Labs"
+    },
+    {
+      "name": "Warnermedia",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Warnermedia"
+    },
+    {
+      "name": "WatchGuard",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/WatchGuard"
+    },
+    {
+      "name": "Wayfair",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wayfair"
+    },
+    {
+      "name": "Waymo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Waymo"
+    },
+    {
+      "name": "WeRide",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/WeRide"
+    },
+    {
+      "name": "Wealthfront",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wealthfront"
+    },
+    {
+      "name": "Wells Fargo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wells Fargo"
+    },
+    {
+      "name": "Western Digital",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Western Digital"
+    },
+    {
+      "name": "Whatnot",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Whatnot"
+    },
+    {
+      "name": "WinZO",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/WinZO"
+    },
+    {
+      "name": "Wipro",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wipro"
+    },
+    {
+      "name": "Wise",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wise"
+    },
+    {
+      "name": "Wish",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wish"
+    },
+    {
+      "name": "Wissen Technology",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wissen Technology"
+    },
+    {
+      "name": "Wix",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Wix"
+    },
+    {
+      "name": "Workday",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Workday"
+    },
+    {
+      "name": "Works Applications",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Works Applications"
+    },
+    {
+      "name": "WorldQuant",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/WorldQuant"
+    },
+    {
+      "name": "X",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/X"
+    },
+    {
+      "name": "Yahoo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Yahoo"
+    },
+    {
+      "name": "Yandex",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Yandex"
+    },
+    {
+      "name": "Yelp",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Yelp"
+    },
+    {
+      "name": "Yext",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Yext"
+    },
+    {
+      "name": "ZS Associates",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ZS Associates"
+    },
+    {
+      "name": "ZScaler",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ZScaler"
+    },
+    {
+      "name": "Zalando",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zalando"
+    },
+    {
+      "name": "Zendesk",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zendesk"
+    },
+    {
+      "name": "Zenefits",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zenefits"
+    },
+    {
+      "name": "Zepto",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zepto"
+    },
+    {
+      "name": "Zeta",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zeta"
+    },
+    {
+      "name": "Zillow",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zillow"
+    },
+    {
+      "name": "ZipRecruiter",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ZipRecruiter"
+    },
+    {
+      "name": "Zluri",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zluri"
+    },
+    {
+      "name": "Zoho",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zoho"
+    },
+    {
+      "name": "Zomato",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zomato"
+    },
+    {
+      "name": "Zoom",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zoom"
+    },
+    {
+      "name": "Zoox",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zoox"
+    },
+    {
+      "name": "Zopsmart",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zopsmart"
+    },
+    {
+      "name": "Zynga",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/Zynga"
+    },
+    {
+      "name": "athenahealth",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/athenahealth"
+    },
+    {
+      "name": "blinkit",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/blinkit"
+    },
+    {
+      "name": "carwale",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/carwale"
+    },
+    {
+      "name": "ciena",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/ciena"
+    },
+    {
+      "name": "eBay",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/eBay"
+    },
+    {
+      "name": "fourkites",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/fourkites"
+    },
+    {
+      "name": "instabase",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/instabase"
+    },
+    {
+      "name": "jio",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/jio"
+    },
+    {
+      "name": "josh technology",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/josh technology"
+    },
+    {
+      "name": "opentext",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/opentext"
+    },
+    {
+      "name": "oyo",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/oyo"
+    },
+    {
+      "name": "peak6",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/peak6"
+    },
+    {
+      "name": "persistent systems",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/persistent systems"
+    },
+    {
+      "name": "razorpay",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/razorpay"
+    },
+    {
+      "name": "redbus",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/redbus"
+    },
+    {
+      "name": "smartnews",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/smartnews"
+    },
+    {
+      "name": "tcs",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/tcs"
+    },
+    {
+      "name": "thoughtspot",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/thoughtspot"
+    },
+    {
+      "name": "zeta suite",
+      "url": "https://github.com/liquidslr/leetcode-company-wise-problems/tree/main/zeta suite"
+    }
+  ]
+}

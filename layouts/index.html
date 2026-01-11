@@ -1,0 +1,118 @@
+{{ define "main" }}
+<div class="grid">
+  <aside class="sidebar">
+    <input id="company-search" type="search" placeholder="Search company" aria-label="Search companies" />
+    <ul id="company-list" class="list">
+      {{ with site.Data.companies.items }}
+        {{ range sort . "name" }}
+          <li><a href="#{{ urlquery .name }}" data-name="{{ .name }}">{{ .name }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </aside>
+  <section class="content">
+    <h1>Companies</h1>
+    <div id="company-content" class="markdown-body">
+      <p>Select a company from the left to load its <code>5. All.csv</code> problems.</p>
+    </div>
+  </section>
+</div>
+
+<script>
+  window.__COMPANIES__ = {{ with site.Data.companies.items }}{{ . | jsonify }}{{ else }}[]{{ end }};
+</script>
+<script>
+  (function(){
+    if(window.__companiesBundleLoaded__) return;
+    var list=document.getElementById('company-list');
+    var input=document.getElementById('company-search');
+    var content=document.getElementById('company-content');
+    if(!list||!input||!content) return;
+
+    function parseCSV(text){
+      var rows=[], row=[], cur='', inQ=false, i=0;
+      while(i<text.length){
+        var ch=text[i];
+        if(inQ){
+          if(ch==='"'){
+            if(text[i+1]==='"'){ cur+='"'; i+=2; continue; }
+            inQ=false; i++; continue;
+          }
+          cur+=ch; i++; continue;
+        } else {
+          if(ch==='"'){ inQ=true; i++; continue; }
+          if(ch===','){ row.push(cur); cur=''; i++; continue; }
+          if(ch==='\n'||ch==='\r'){ if(cur!==''||row.length){ row.push(cur); rows.push(row); row=[]; cur=''; } i++; continue; }
+          cur+=ch; i++;
+        }
+      }
+      if(cur!==''||row.length){ row.push(cur); rows.push(row); }
+      return rows.filter(function(r){ return !(r.length===1 && r[0]===''); });
+    }
+
+    function csvToTable(text){
+      var rows=parseCSV(text);
+      var table=document.createElement('table'); table.className='table';
+      if(rows.length===0) return table;
+      var header=rows[0];
+      var difficultyIdx = header.findIndex(function(h){return /difficulty/i.test(h)});
+      var linkIdx = header.findIndex(function(h){return /link|url/i.test(h)});
+      var titleIdx = header.findIndex(function(h){return /title|problem/i.test(h)});
+
+      var thead=document.createElement('thead'); var trh=document.createElement('tr');
+      header.forEach(function(h){ var th=document.createElement('th'); th.textContent=h; trh.appendChild(th); });
+      thead.appendChild(trh); table.appendChild(thead);
+      var tbody=document.createElement('tbody');
+      rows.slice(1).forEach(function(r){
+        var tr=document.createElement('tr');
+        r.forEach(function(cell, idx){
+          var td=document.createElement('td');
+          if(idx===difficultyIdx){
+            var d=String(cell||'').toLowerCase();
+            var span=document.createElement('span');
+            span.className='badge '+(d.indexOf('easy')>-1?'easy':d.indexOf('medium')>-1?'medium':d.indexOf('hard')>-1?'hard':'');
+            span.textContent=cell; td.appendChild(span);
+          } else if(idx===linkIdx && /^(https?:)?\/\//i.test(String(cell||''))){
+            var a=document.createElement('a'); a.href=cell; a.target='_blank'; a.rel='noopener'; a.textContent='Open'; td.appendChild(a);
+          } else if(idx===titleIdx && linkIdx>-1 && /^(https?:)?\/\//i.test(String(r[linkIdx]||''))){
+            var a2=document.createElement('a'); a2.href=r[linkIdx]; a2.target='_blank'; a2.rel='noopener'; a2.textContent=cell||''; td.appendChild(a2);
+          } else {
+            td.textContent=cell;
+          }
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+      });
+      table.appendChild(tbody);
+      return table;
+    }
+
+    function bind(){
+      list.querySelectorAll('a').forEach(function(a){
+        a.addEventListener('click', function(e){
+          e.preventDefault();
+          var name=(this.getAttribute('data-name')||this.textContent).trim();
+          var url='https://raw.githubusercontent.com/liquidslr/leetcode-company-wise-problems/main/'+encodeURIComponent(name)+'/5.%20All.csv';
+          content.innerHTML='Loading '+name+'…';
+          fetch(url).then(function(r){return r.text()}).then(function(t){
+            var h2=document.createElement('h2'); h2.textContent=name;
+            var table=csvToTable(t);
+            content.innerHTML=''; content.appendChild(h2); content.appendChild(table);
+          }).catch(function(){ content.innerHTML='Failed to load CSV.'; });
+        });
+      });
+    }
+    function filter(){
+      var q=(input.value||'').toLowerCase();
+      list.querySelectorAll('li').forEach(function(li){
+        var a=li.querySelector('a'); if(!a){li.style.display='';return}
+        var n=(a.getAttribute('data-name')||a.textContent).toLowerCase();
+        li.style.display = q && n.indexOf(q)===-1 ? 'none' : '';
+      });
+    }
+    bind();
+    input.addEventListener('input', filter);
+    input.addEventListener('keyup', filter);
+  })();
+</script>
+{{ end }}
