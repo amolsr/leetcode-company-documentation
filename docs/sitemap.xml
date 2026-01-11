@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>/leetcode-company-documentation/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>/leetcode-company-documentation/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/leetcode-company-documentation/tags/</loc>
   </url>
 </urlset>
